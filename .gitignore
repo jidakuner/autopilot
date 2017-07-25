@@ -1,0 +1,74 @@
+_ReSharper*
+[Bb]in/
+obj/
+objd/
+out/
+tmp/
+packages/
+App_Data
+*.user
+*.sln.cache
+*.userosscache
+*.suo
+TestResults
+[Tt]humbs.db
+buildd.log
+buildd.evt
+buildd.dbb
+buildd.prf
+buildd.trc*
+buildd.err
+buildd.wrn
+build.log
+build.evt
+build.prf
+build.dbb
+build.trc*
+build.err
+build.wrn
+*.log
+*.bak
+OACRTemp/
+build_logs/
+lock
+/public/inc/bldver.*
+/public/inc/sources.ver
+/data
+*.projhash*
+*.slnhash*
+# quickbuild.exe
+/target/distrib/*
+/VersionGeneratingLogs/
+/VersionGeneration/
+QLogs
+QLocal
+QTestLogs
+pingme.txt
+__tracer/
+__cacheOutput/
+
+# Quickbuild log folder
+/private/Logs
+
+# bad tlb/chm generators in nmake tree
+*.tlb
+*.chm
+
+# silverlight
+ClientBin/
+
+# azure
+*.build.csdef
+csx/
+/version
+/__cbcOutput/debug/amd64/private
+
+# StyleCop
+StyleCop.Cache
+
+# Team-Specific
+
+#Exclude nuget packages folders
+packages/
+#ignore envkeep.txt
+build/envkeep.txt

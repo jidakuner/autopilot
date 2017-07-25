@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer", "Viewer\Viewer.csproj", "{E048240E-FAEE-4ED4-810E-AE888332525D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E9BE91-865C-4E54-8FDD-AD1325C6BEFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E048240E-FAEE-4ED4-810E-AE888332525D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E048240E-FAEE-4ED4-810E-AE888332525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E048240E-FAEE-4ED4-810E-AE888332525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E048240E-FAEE-4ED4-810E-AE888332525D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
