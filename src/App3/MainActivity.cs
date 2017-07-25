@@ -38,6 +38,7 @@ namespace App3
         private void Click()
         {
                 Java.Lang.Thread.Sleep(10000);
+                // if want tap on the other app, you need root your phone
                 Java.Lang.Runtime.GetRuntime().Exec("input tap 500 300");
         }
 
